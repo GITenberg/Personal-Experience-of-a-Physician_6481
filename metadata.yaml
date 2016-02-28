@@ -1,0 +1,23 @@
+_repo: Personal-Experience-of-a-Physician_6481
+creator:
+  author:
+    agent_name: Ellis, John
+    birthdate: 1815
+    deathdate: 1896
+    gutenberg_agent_id: '2063'
+    url: http://www.gutenberg.org/2009/agents/2063
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Homeopathy'
+- !lcsh 'Temperance'
+- !lcc 'RX'
+title: Personal Experience of a Physician
+url: http://www.gutenberg.org/ebooks/6481
